@@ -1,5 +1,5 @@
-# declarative-samples-java-app
-A sample Kotlin application written in the Declarative Gradle DSL, using the prototype Declarative Gradle `javaApplication` Software Type defined in the `org.gradle.experimental.jvm-ecosystem` ecosystem plugin.
+# declarative-samples-kotlin-app
+A sample Kotlin application written in the Declarative Gradle DSL, using the prototype Declarative Gradle `kotlinJvmApplication` Software Type defined in the `org.gradle.experimental.kmp-ecosystem` ecosystem plugin.
 
 ## Building and Running
 
