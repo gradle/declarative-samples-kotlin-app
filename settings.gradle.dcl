@@ -21,7 +21,7 @@ include("app")
 include("list")
 include("utilities")
 
-conventions {
+defaults {
     kotlinJvmApplication {
         javaVersion = 21
 
