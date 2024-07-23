@@ -31,9 +31,7 @@ conventions {
 
         testing {
             dependencies {
-                // Use JUnit Jupiter for testing.
                 implementation("org.junit.jupiter:junit-jupiter:5.10.2")
-
                 runtimeOnly("org.junit.platform:junit-platform-launcher")
             }
         }
@@ -47,9 +45,7 @@ conventions {
         }
         testing {
             dependencies {
-                // Use JUnit Jupiter for testing.
                 implementation("org.junit.jupiter:junit-jupiter:5.10.2")
-
                 runtimeOnly("org.junit.platform:junit-platform-launcher")
             }
         }
