@@ -6,7 +6,7 @@ pluginManagement {
 }
 
 plugins {
-    id("org.gradle.experimental.kmp-ecosystem").version("0.1.19")
+    id("org.gradle.experimental.kmp-ecosystem").version("0.1.21")
 }
 
 dependencyResolutionManagement {
